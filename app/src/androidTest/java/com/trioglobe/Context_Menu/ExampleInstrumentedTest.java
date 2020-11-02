@@ -1,4 +1,4 @@
-package com.trioglobe.developers_kit_demo;
+package com.trioglobe.Context_Menu;
 
 import android.content.Context;
 

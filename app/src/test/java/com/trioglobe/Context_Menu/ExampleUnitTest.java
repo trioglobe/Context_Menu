@@ -1,4 +1,4 @@
-package com.trioglobe.developers_kit_demo;
+package com.trioglobe.Context_Menu;
 
 import org.junit.Test;
 
