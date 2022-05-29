@@ -31,6 +31,7 @@ public class MainActivity extends AppCompatActivity   {
         nav = findViewById(R.id.nav);
         drawer.addDrawerListener(drawerToggle);
         drawerToggle.syncState();
+        // Code for Changing file
        show.setOnClickListener(new View.OnClickListener() {
            @Override
            public void onClick(View v) {
@@ -38,6 +39,7 @@ public class MainActivity extends AppCompatActivity   {
                startActivity(i);
            }
        });
+        // creates on click listener
  nav.setNavigationItemSelectedListener(
                 new NavigationView.OnNavigationItemSelectedListener() {
                     @Override
